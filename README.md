@@ -77,9 +77,10 @@ Expert in **AWS Glue**, **Python**, **SQL**, **Power BI**, **Databricks**, and *
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehalsi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalsi@example.com)
+[![LinkedIn](https://www.linkedin.com/in/nehal-samani-924278216/)](#)
+[![LeetCode](https://leetcode.com/u/nehalsamani23121/)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehalsamani23121)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalsamani23121@gmail.com)
 
 ---
 
