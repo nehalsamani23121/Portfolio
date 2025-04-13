@@ -1,74 +1,88 @@
-# 👋 Hi there, I'm Nehal Samani!
-
-🚀 *Data Engineer | Cloud Enthusiast | Automation Specialist | AWS Glue Pro | Power BI Fanatic*
-
----
-
-## 💡 About Me
-
-I am a **Data Engineer** with **2.5+ years of experience** in cloud data migration, ETL development, and data automation. I specialize in building and optimizing scalable data pipelines and cloud-based data lake solutions using tools like **AWS Glue**, **Informatica**, **Python**, **SQL**, and **Power BI**. I've successfully migrated legacy workflows, improved processing efficiency, and built end-to-end automation to support robust BI and reporting systems.
+readme_content = """\
+<h1 align="center">Hi there, I'm Nehal Samani! 👋</h1>
+<p align="center">🚀 Data Engineer | Cloud Enthusiast | Automation Champion | Power BI Pro</p>
 
 ---
 
-## 🧠 Key Skills
+## 🧑‍💻 About Me
+A passionate **Data Engineer** with **2.5+ years** of experience in **cloud data migration, ETL development**, and **data automation**.  
+Expert in **AWS Glue**, **Python**, **SQL**, **Power BI**, **Databricks**, and **Snowflake**.
 
-| Tech Stack | Tools |
-|------------|-------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| ![Databricks](https://img.shields.io/badge/-Databricks-E9730F?style=flat-square&logo=databricks&logoColor=white) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
-
----
-
-## 🏢 Work Experience
-
-### Tata Consultancy Services — *Data Engineer (Python, AWS, Linux)*  
-📍 Ahmedabad, India | 🗓️ *July 2022 - Present*
-
-- 🚀 Migrated on-premise Linux-based ETL scripts to **AWS Glue** using **Python** and **PySpark**, reducing job runtime from 1 hour to 5 minutes.
-- 🛠️ Redesigned legacy **Informatica** pipelines into modern Glue workflows, slashing processing time by 75%.
-- 🌊 Built scalable **data lake** and warehouse pipelines using **Amazon S3**, enabling real-time Power BI dashboards.
-- 🤖 Automated 4+ ETL workflows using Python + SQL and migrated orchestration from **CAWA to Prefect Server**.
-- 🖥️ Developed a **Python-PyQt5** desktop app to empower users with on-demand custom report generation.
+🔹 Migrated legacy ETL workflows from Informatica to AWS Glue  
+🔹 Built real-time ETL pipelines for Power BI dashboards  
+🔹 Automated entire data workflows using Python and Prefect  
+🔹 Developed self-serve data tools with PyQt5 for business teams
 
 ---
 
-## 📊 Projects
+## 🛠️ Tech Stack
 
-### 1. **Cloud-Native Data Pipeline Automation**
-- **Stack**: AWS Glue, S3, Prefect, Python, Power BI
-- **Outcome**: Fully automated S3 to dashboard pipeline with Splunk alerts and email notifications
+### 🔣 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-### 2. **Legacy to Glue Migration**
-- **Stack**: Informatica, AWS Glue, PySpark
-- **Outcome**: 75% reduction in runtime and enhanced scalability
+### ☁️ Cloud & Data Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
 
-### 3. **Pharma Sales Dashboard**
-- **Stack**: Power BI, Python, SQL, AWS
-- **Outcome**: Real-time KPIs and executive-level visibility
+### 🛠️ ETL & Workflow Tools
+<p>
+  <img src="https://img.shields.io/badge/Informatica-EF3AAB?style=for-the-badge&logo=informaticamdm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-212121?style=for-the-badge&logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAWA-007ACC?style=for-the-badge&logoColor=white" />
+</p>
+
+### 📊 BI & Reporting
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+</p>
+
+### 🧰 Other Tools & Skills
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-1E4E79?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Macros-7289DA?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
-## 📚 Technical Skills
+## 💼 Work Experience
 
-- **Languages**: Python, SQL, Linux
-- **Databases**: MySQL, Oracle
-- **Tools**: GitHub, Snowflake, Databricks, VS Code, Power Apps, ServiceNow, CAWA
-- **Cloud Platforms**: Amazon Web Services (S3, Glue, Lambda, Athena, CloudWatch)
-- **ETL Tools**: Informatica, Prefect
-- **BI Tools**: Power BI
-- **Concepts**: Data Structures & Algorithms, OS, Networking, DBMS
+### 🏢 Tata Consultancy Services — *Data Engineer*
+📍 Ahmedabad, India | 📅 07/2022 - Present
 
----
-
-## 🌐 Let's Connect!
-
-- 🔗 [LinkedIn](#)
-- 💻 [GitHub](https://github.com/nehalsi)
-- 📧 Email: [nehalsi@example.com](mailto:nehalsi@example.com)
+- Migrated Linux-based ETL scripts to AWS Glue with Python & PySpark → job runtime cut by **90%**
+- Redesigned Informatica pipelines → achieved **75% faster processing**
+- Integrated Amazon S3 with Power BI for real-time dashboards
+- Automated 4+ full workflows using Python, SQL, Prefect
+- Created a PyQt5-based reporting app for business users
 
 ---
 
-_"Transforming data into actionable insights"_
+## 📚 Education & Interests
+- 💻 Strong foundation in Data Structures, OS, Networking, and DBMS
+- 🌏 Curious learner | 📊 Dashboard lover | 🛠 Automation enthusiast
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehalsi)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalsi@example.com)
+
+---
+
+<i>“Turning raw data into business value, one script at a time.”</i>
+"""
