@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nehal Samani! 👋</h1>
-<p align="center">🚀 Data Engineer | Cloud Enthusiast | Automation Champion | Power BI Pro</p>
+<p align="center">🚀 Data Engineer @TCS | Software Developer | AWS | Python | Cloud | ETL | SQL | PowerBI | Snowflake | Data Warehouse | Data Lake | Pharma Domain</p>
 
 ---
 
