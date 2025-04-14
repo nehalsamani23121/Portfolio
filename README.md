@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nehal Samani! 👋</h1>
-<p align="center">🚀 Data Engineer @TCS | Software Developer | AWS | Python | Cloud | ETL | SQL | PowerBI | Snowflake | Data Warehouse | Data Lake | Pharma Domain</p>
+<p align="center">🚀 Data Engineer @TCS | Software Developer | AWS | Python | Cloud | ETL | SQL | PowerBI | Snowflake | Data Warehouse | Data Lake</p>
 
 ---
 
@@ -69,16 +69,52 @@ Expert in **AWS Glue**, **Python**, **SQL**, **Power BI**, **Databricks**, and *
 
 ---
 
-## 📚 Education & Interests
-- 💻 Strong foundation in Data Structures, OS, Networking, and DBMS
-- 🌏 Curious learner | 📊 Dashboard lover | 🛠 Automation enthusiast
+## 🚧 What I Do (Daily)
+
+- 🚀 **Automate Data Pipelines** from S3 to Glue to Power BI with zero manual intervention
+- 📈 Build & Refresh **Power BI Reports** with real-time data insights
+- ⚠️ Handle **Glue Job Failures** & alerts using **ServiceNow** & **Splunk**
+- 📬 Send automated daily summary emails with timestamps from S3 ingestion to Power BI refresh
+- 🔄 Migrate old ETLs from **Informatica** to **Python-based Glue Jobs**
+- 🧠 Drive insights in the **pharma domain**, working with structured & semi-structured data
+
+---
+
+## 🌐 Portfolio Projects
+
+### 🔄 Automated ETL Pipeline
+
+> *AWS S3 → Glue → Prefect → Power BI → Email Notification System*
+
+- Fully automated pipeline with zero-touch data refresh
+- Daily email summary with:
+  - 📂 S3 file dump time
+  - ⚙️ Glue job completion time
+  - 🔁 Prefect pipeline run status
+  - 📊 Power BI report refresh timestamp
+
+### 📊 Pharma Insights Dashboard
+
+> *Power BI + AWS Glue + Athena*
+
+- Visualized critical KPIs for drug trials & clinical data
+- Integrated real-time updates via Glue and Python logic
+
+---
+
+## 🧠 Learning & Exploring
+
+- 🤖 Generative AI Integration into Data Pipelines
+- 📦 Data Lakehouse Architectures
+- 🔄 Real-Time Data Streaming (Kafka, Kinesis)
+- 🧪 Advanced analytics in healthcare/pharma
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/nehal-samani-924278216/)](#)
-[![LeetCode](https://leetcode.com/u/nehalsamani23121/)](#)
+[![LinkedIn](https://www.linkedin.com/in/nehal-samani-924278216/)]
+[![LeetCode](https://leetcode.com/u/nehalsamani23121/)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehalsamani23121)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalsamani23121@gmail.com)
 
