@@ -1,7 +1,5 @@
-# 🧑 Samani’s Portfolio
-
-**Repository:** `nehal-samani-portfolio`  
-**Document ID:** `684716e50a888191b546e4cbd90702a4`
+<h1 align="center">Hi there, I'm Nehal Samani! 👋</h1>
+<p align="center">🚀 Data Engineer @TCS | Software Developer | AWS | Python | Cloud | ETL | SQL | PowerBI | Snowflake | Data Warehouse | Data Lake</p>
 
 ---
 
@@ -25,22 +23,45 @@ Key strengths include:
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 🔣 Languages & Environments  
-Python · SQL · Java · Linux / Unix  
+### 🔣 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-### ☁️ Cloud & Big Data  
-AWS (Glue, S3, Redshift) · Databricks · Snowflake  
+### ☁️ Cloud & Data Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
 
-### ⚙️ ETL & Orchestration  
-Informatica · Prefect · Apache Airflow · CAWA  
+### 🛠️ ETL & Workflow Tools
+<p>
+  <img src="https://img.shields.io/badge/Informatica-EF3AAB?style=for-the-badge&logo=informaticamdm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prefect-212121?style=for-the-badge&logo=prefect&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAWA-007ACC?style=for-the-badge&logoColor=white" />
+</p>
 
-### 📊 Analytics & BI  
-Power BI · Power Apps  
+### 📊 BI & Reporting
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+</p>
 
-### 🧰 Tools & Others  
-VS Code · Jira · ServiceNow · Putty · GitHub · Excel Macros
+### 🧰 Other Tools & Skills
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-1E4E79?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Macros-7289DA?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
